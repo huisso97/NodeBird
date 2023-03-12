@@ -19,4 +19,6 @@
 /package-lock.json
 
 # next
-/.next
+.next
+# vscode
+.vscode
